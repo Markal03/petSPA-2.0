@@ -1,0 +1,74 @@
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\bin\Debug\netcoreapp2.2\PetSPA.deps.json
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\bin\Debug\netcoreapp2.2\PetSPA.runtimeconfig.json
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\bin\Debug\netcoreapp2.2\PetSPA.runtimeconfig.dev.json
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\bin\Debug\netcoreapp2.2\PetSPA.dll
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\bin\Debug\netcoreapp2.2\PetSPA.pdb
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\bin\Debug\netcoreapp2.2\PetSPA.Views.dll
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\bin\Debug\netcoreapp2.2\PetSPA.Views.pdb
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\PetSPA.csprojAssemblyReference.cache
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\PetSPA.csproj.CoreCompileInputs.cache
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\PetSPA.RazorAssemblyInfo.cache
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\PetSPA.RazorAssemblyInfo.cs
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\PetSPA.AssemblyInfoInputs.cache
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\PetSPA.AssemblyInfo.cs
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\PetSPA.TagHelpers.input.cache
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\PetSPA.TagHelpers.output.cache
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\PetSPA.RazorCoreGenerate.cache
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\PetSPA.RazorTargetAssemblyInfo.cache
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\PetSPA.RazorTargetAssemblyInfo.cs
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\PetSPA.Views.pdb
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\PetSPA.dll
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\PetSPA.pdb
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\PetSPA.csproj.CopyComplete
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\Razor\Views\Pet\index.g.cshtml.cs
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\Razor\Views\Pet\Welcome.g.cshtml.cs
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\Razor\Views\Pets\Create.g.cshtml.cs
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\Razor\Views\Pets\Delete.g.cshtml.cs
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\Razor\Views\Pets\Details.g.cshtml.cs
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\Razor\Views\Pets\Edit.g.cshtml.cs
+C:\Users\Marco03\Desktop\PetSpa 2.0\PetSPA\obj\Debug\netcoreapp2.2\Razor\Views\Pets\Index.g.cshtml.cs
+C:\Users\Marco03\Desktop\petSPA-2.0\bin\Debug\netcoreapp2.2\PetSPA.deps.json
+C:\Users\Marco03\Desktop\petSPA-2.0\bin\Debug\netcoreapp2.2\PetSPA.runtimeconfig.json
+C:\Users\Marco03\Desktop\petSPA-2.0\bin\Debug\netcoreapp2.2\PetSPA.runtimeconfig.dev.json
+C:\Users\Marco03\Desktop\petSPA-2.0\bin\Debug\netcoreapp2.2\PetSPA.dll
+C:\Users\Marco03\Desktop\petSPA-2.0\bin\Debug\netcoreapp2.2\PetSPA.pdb
+C:\Users\Marco03\Desktop\petSPA-2.0\bin\Debug\netcoreapp2.2\PetSPA.Views.dll
+C:\Users\Marco03\Desktop\petSPA-2.0\bin\Debug\netcoreapp2.2\PetSPA.Views.pdb
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\PetSPA.csprojAssemblyReference.cache
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\PetSPA.csproj.CoreCompileInputs.cache
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\PetSPA.RazorAssemblyInfo.cache
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\PetSPA.RazorAssemblyInfo.cs
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\PetSPA.AssemblyInfoInputs.cache
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\PetSPA.AssemblyInfo.cs
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\PetSPA.TagHelpers.input.cache
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\PetSPA.TagHelpers.output.cache
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\PetSPA.RazorCoreGenerate.cache
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\Razor\Views\Pets\Create.g.cshtml.cs
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\Razor\Views\Pets\Delete.g.cshtml.cs
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\Razor\Views\Pets\Details.g.cshtml.cs
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\Razor\Views\Pets\Edit.g.cshtml.cs
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\Razor\Views\Pets\Index.g.cshtml.cs
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\Razor\Views\Pet\index.g.cshtml.cs
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\Razor\Views\Pet\Welcome.g.cshtml.cs
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\PetSPA.RazorTargetAssemblyInfo.cache
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\PetSPA.RazorTargetAssemblyInfo.cs
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\PetSPA.Views.pdb
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\PetSPA.dll
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\PetSPA.pdb
+C:\Users\Marco03\Desktop\petSPA-2.0\obj\Debug\netcoreapp2.2\PetSPA.csproj.CopyComplete
